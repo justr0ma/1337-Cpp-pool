@@ -1,2 +1,2 @@
 # 1337-Cpp-pool
-cpp-pool
+C++ & OOP exercices
